@@ -1,5 +1,5 @@
 +++
-title = "Skycoin Launches A Vision for the New Internet"
+title = "スカイコインは新しいインターネットのビジョンを立ち上げます"
 tags = [
     "Statement",
 ]
@@ -10,52 +10,52 @@ categories = [
 ]
 +++
 
-Skycoin, a next-generation cryptocurrency with four years of development
-history, rolls out to the public in July. The Skycoin project seeks to
-popularize decentralized networking by fixing problems with Bitcoin. Over 80
-developers on Github and elsewhere have contributed to the project since 2012.
+スカイコイン、4年間もの歳月をかけて開発された次世代の暗号通貨が7月に公開されます。
+スカイコインプロジェクトはビットコインがもつ問題を解決し、非集権ネットワークを活性化
+させようとしています。
+Githubなどで80人を超える開発者が2012年からプロジェクトに貢献してきました。
 
-Skycoin is a fast, secure, and reliable currency for online transactions.
-It uses a redesigned consensus algorithm that improves on Bitcoin,
-and is the first algorithm of its type since PeerCoin.
+スカイコインはオンライン決済のための高速、安全、高信頼度の通貨です。
+それは、ビットコインをさらに改良した、再設計されたコンセンサスアルゴリズムを
+使用し、それはピアコイン以来初の独自アルゴリズムです。
 
-Skycoin’s core features are speed, privacy, security, and ecosystem.
+スカイコインの主な特徴は、スピード、プライバシー、安全性、そしてエコシステムです。
 
-In terms of speed, Skycoin competes with credit cards and Apple Pay.
-Transactions occur in seconds.
-This makes the coin suitable for Point-of-Sale (POS) and IOT transactions.
+スピードに関しては、スカイコインはクレジットカード、アップルペイに匹敵します。
+決済は数秒で完結します。
+これにより、スカイコインはPOSシステム（販売時点管理システム）やIOT決済に適した
+ものとなります。
 
-Skycoin can claim 100% private and anonymous transactions thanks to its use of
-CoinJoin protocol to mix transactions from more than one wallet.
-It also provides a secure transaction setting that uses encryption to
-protect from 51% attack and other common threats.
+スカイコインは複数のウォレットからの決済情報を一度に取り扱うコインジョイン
+プロトコルの使用により、100%の秘匿性・匿名性を獲得できます。
+暗号化を用いた安全な決済設定により、51%攻撃やその他の脅威を防ぐことができます。
 
-The ecosystem surrounding Skycoin is expanding.
-Developers are building Skycoin apps and tools,
-which include planned options like social networks, VPN, and messaging.
+スカイコインを取り巻くエコシステムは拡大しています。
+開発者は既存のアプリであるSNS、VPN、メッセージアプリなどを含む、
+さまざまなスカイコインアプリ、ツールを作成しています。
 
-Skycoin is set to level the playing field and create a decentralized internet
-by distributing value across the peer-to-peer community.
-It provides a public resource that eliminates the mining and inflation that
-plague other cryptocurrencies.
+スカイコインはP2Pコミュニティに価値を行き渡らせることで、非集権のインターネットを
+創る、その地ならしを担うものです。
+それはみんなが使える計算資源を提供し、他の暗号通貨を悩ますマイニングやインフレを
+無くします。
 
-But developers say that the Skycoin project isn’t just about cryptocurrency.
-It’s also the fuel behind Skywire, a peer-to-peer network that boldly seeks to
-replace the current internet landscape with something better.
+しかし、開発者たちはスカイコインは単なる暗号通貨ではないと言っています。
+それは、大胆にも現在のインターネットの光景をより良いものに置き換えることを目指す
+P2Pネットワークであるスカイワイヤーの燃料なのです。
 
-“There are other repos on [github.com/skycoin](https://github.com/skycoin)
-for mesh networking and distributed VPN prototypes, where people will be paid
-tokens for forwarding traffic,” says Skycoin project founder Synth. “There is
-also a distributed social media service, with peer-to-peer data replication and
-different experimental projects, as well as research into immutable data
-structures for next-generation internet. Some of them are very radical.”
+「[github.com/skycoin](https://github.com/skycoin) にはメッシュネットワークや
+、人々がトラフィックを処理することでトークンの支払いを受けられる分散型VPNの
+プロトタイプのリポジトリもあります。」とスカイコインプロジェクトの創始者Synth
+は言います。
 
-Skywire users receive coins for sharing content and services.
-In this way, Skycoin invites users to participate in a larger mission:
-wresting control away from corporate internet service providers and giving it
-back to the community. It’s a shared social purpose that makes the Skycoin
-project unique.
+「P2Pによるデータ複製を用いた分散型SNSなどの実験的なプロジェクトだけではなく、
+次世代インターネットのための改ざん不可能なデータ構造の研究など、かなり革新的な
+ものもあります。」
 
-Skycoin’s rollout and ongoing development can be followed online
-at [skycoin.net](https://www.skycoin.net).
+スカイワイヤーのユーザはコンテンツやサービスを発信することでコインをもらえます。
+このようにしてスカイコインは、インターネットサービスプロバイダ企業から主導権を奪い、
+それをコミュニティへ返すという大きな使命へとユーザを導きます。
+それこそがスカイコイン独自の、社会的な目的なのです。
 
+スカイコインの新情報や開発状況は[skycoin.net](https://www.skycoin.net) で知る
+ことができます。
